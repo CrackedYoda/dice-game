@@ -1,0 +1,44 @@
+body{
+
+    background: #1A333D;
+}
+h1,.mad{
+
+text-align: center
+;
+    color: #268749;
+font-size: 100px;
+text-shadow: black;
+text-shadow: 0.5em;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*add a property for text player 2 loses*/
+
+
+.game{
+
+   display: flex;
+   position: relative;
+   left: 20%;
+    
+}
+.game1{
+    padding-right: 15%;
+}
+
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #268749;
+    font-size: 50px;
+
+}
+
+footer{
+text-align: center;
+color: #268749;
+font-size: 40px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding-top: 50px ;
+}
